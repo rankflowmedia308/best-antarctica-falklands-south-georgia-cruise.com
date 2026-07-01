@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 52">
+  <!-- Iceberg mark -->
+  <polygon points="26,4 36,20 33,20 35,28 17,28 19,20 16,20" fill="white"/>
+  <rect x="12" y="28" width="28" height="2" fill="#5BBFFF" rx="1"/>
+  <!-- Wordmark -->
+  <text x="50" y="22" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="white" letter-spacing="0.5">Antarctic Expedition</text>
+  <text x="50" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-weight="400" fill="white" fill-opacity="0.55" letter-spacing="2.5">CRUISE GUIDE</text>
+</svg>
